@@ -6,5 +6,5 @@ A simple game where you have to guess the Celebrities by tapping the options giv
 
 ### Screens
 
-![32195782-8fd87d96-bda5-11e7-9a96-ad15d4a52ffe](https://user-images.githubusercontent.com/46355027/70860939-8e62bd80-1f4d-11ea-92cd-476e65ea92e5.png)
-![guesscelebrity-2015-12-06-195809_acc63f00-9994-4d71-b5ce-541237694404 (2)](https://user-images.githubusercontent.com/46355027/70860940-8e62bd80-1f4d-11ea-95d7-2f046431a9f6.png)
+![imageedit_2_4922187097](https://user-images.githubusercontent.com/46355027/71233526-e453ae80-231b-11ea-9532-30a7282ca32d.jpg)
+![imageedit_2_5040628194](https://user-images.githubusercontent.com/46355027/71233528-e453ae80-231b-11ea-945d-e26b3c371cd0.jpg)
